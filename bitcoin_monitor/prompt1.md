@@ -1,0 +1,1 @@
+Implemente um painel para monitorar o preço do bitcoin em tempo real, para obter o preço, utilize a api https://api.api-ninjas.com/v1/bitcoin com o header X-Api-Key kIwRwVNydIUrJzArE4LajA==xX81Zit9JC2zePiQ, não exponha a chave no frontend, obtenha os dados no backend e crie um endpoint para o frontend obter as informações
